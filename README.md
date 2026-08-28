@@ -21,4 +21,4 @@ StudyMimi — An Electron desktop pet that studies alongside you, and shows your
 ## Contact
 
 - Email: dayunbibi@gmail.com
-- LinkedIn: (linkedin.com/in/본인-영문-URL)
+- LinkedIn: (linkedin.com/in/dayun-yu-344b53421)
